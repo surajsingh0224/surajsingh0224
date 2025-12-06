@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-singh-data-science/)
 [![Email](https://img.shields.io/badge/Email-Reach_Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suraj.datascience24@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]()
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://surajsingh-datascience.netlify.app)
 
 </div>
 
@@ -16,14 +16,15 @@
 
 ## 🎯 Mission Statement
 
-I'm on a mission to **transition into Data Science by 2025**. With a foundation in web development and digital marketing, I bring a rare blend: technical execution meets business intuition. I don't just build models—I build solutions that drive real-world impact.
+I'm on a mission to **transition into Data Science by 2026**. With a foundation in web development and digital marketing, I bring a rare blend: technical execution meets business intuition. I don't just build models, I build solutions that drive real-world impact.
 
 ```python
 class DataScientist:
+
     def __init__(self):
-        self.name = "Suraj"
-        self.role = "Aspiring Data Scientist"
-        self.location = "Hyderabad, India"
+        self.name = "Suraj Singh"
+        self.role = "Aspiring Data Scientist ` 2026"
+        self.location = "Hyderabad, Telangana, India"
         self.current_focus = ["Machine Learning", "Deep Learning", "MLOps"]
         
     def say_hi(self):
@@ -40,7 +41,7 @@ me.say_hi()
 🧠 **Currently Building:** Advanced ML pipelines and deploying models via Flask  
 📚 **Learning:** Deep Learning (TensorFlow/PyTorch) & Advanced SQL optimization  
 💼 **Open to:** Data Analyst | Junior Data Scientist | Python Developer roles  
-🎓 **2025 Goal:** Land my first full-time Data Science position
+🎓 **2026 Goal:** Land my first full-time Data Science position
 
 ---
 
@@ -65,88 +66,16 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### **Business Intelligence**
-📊 SEO Optimization • Google Analytics • Content Strategy • A/B Testing
-
----
-
-## 💎 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Train-Test Split App
-**Desktop ML Utility**
-
-A GUI tool that streamlines dataset splitting for machine learning workflows with instant visual feedback.
-
-**Tech:** `Python` `Tkinter` `Pandas` `Matplotlib`
-
-[🔗 View Project](#)
-
-</td>
-<td width="50%">
-
-### 🔐 Encrypted Chat App
-**Real-Time Secure Messaging**
-
-End-to-end encrypted two-person chat application built with WebSocket communication.
-
-**Tech:** `Flask` `Socket.io` `Python` `Cryptography`
-
-[🔗 View Project](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📈 Data Science Mini-Suite
-**ML Model Collection**
-
-Comprehensive EDA notebooks featuring regression and classification models with advanced feature engineering.
-
-**Tech:** `Jupyter` `Scikit-Learn` `Seaborn` `XGBoost`
-
-[🔗 View Project](#)
-
-</td>
-<td width="50%">
-
-### 🌐 Linus Business Solutions
-**Corporate Website**
-
-SEO-optimized responsive website that increased client's organic traffic by 40% in 3 months.
-
-**Tech:** `HTML5` `CSS3` `JavaScript` `Bootstrap`
-
-[🔗 View Project](#)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" height="170" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" height="170" alt="Top Languages" />
-</div>
+📊 SEO Optimization • Google Analytics • Digital Marketing • Graphic Designing
 
 ---
 
 ## 🎓 Certifications & Learning Path
 
-- 📜 **Data Science Specialization** - [Platform Name]
-- 📜 **Machine Learning A-Z** - Udemy
-- 📜 **SQL for Data Analysis** - DataCamp
-- 🎯 **Currently Pursuing:** Deep Learning Specialization
+- 📜 **The Ultimate Job Ready Data Science Course** - Code With Harry
+- 📜 **Wordpress & Digital Marketing** - Empower SoftTech
+- 📜 **Java FullStack** - Empower SoftTech
+- 📜 **Frontend Website Development** - Ministry of Micro, Small and Medium Enterprises, Government of India
 
 ---
 
@@ -154,7 +83,7 @@ SEO-optimized responsive website that increased client's organic traffic by 40% 
 
 > *"Data is the new oil, but insights are the refined fuel that powers decisions."*
 
-I believe that the best data scientists are those who can bridge the gap between complex algorithms and business value. My background in web development and digital marketing gives me a unique edge: I understand not just *how* to build models, but *why* they matter to the business.
+I believe that the best data scientists are those who can bridge the gap between complex algorithms and business value. My background in web development and digital marketing gives me a unique edge. I understand not just *how* to build models, but *why* they matter to the business.
 
 ---
 
@@ -175,8 +104,6 @@ Whether you're looking for a data scientist, have a project in mind, or just wan
 [![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF5722?style=for-the-badge&logo=google-chrome)](https://YOUR_PORTFOLIO_LINK)
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D9FF&style=for-the-badge&label=Profile+Views)
 
 **Last Updated:** December 2025 | **Made with** ❤️ **and a lot of** ☕
 
