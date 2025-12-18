@@ -72,24 +72,11 @@ me.say_hi()
 
 ## 🎓 Certifications & Learning Path
 
-- 📜 **The Ultimate Job Ready Data Science Course** - Code With Harry
-- 📜 **Wordpress & Digital Marketing** - Empower SoftTech
-- 📜 **Java FullStack** - Empower SoftTech
-- 📜 **Frontend Website Development** - Ministry of Micro, Small and Medium Enterprises, Government of India
-
----
-
-## 💡 Philosophy
-
-> *"Data is the new oil, but insights are the refined fuel that powers decisions."*
-
-I believe that the best data scientists are those who can bridge the gap between complex algorithms and business value. My background in web development and digital marketing gives me a unique edge. I understand not just *how* to build models, but *why* they matter to the business.
-
----
-
-## 🌟 Fun Fact
-
-When I'm not wrangling data or training models, you'll find me analyzing digital marketing algorithms to understand how they influence human behavior. It's fascinating how similar recommendation engines are to human psychology! 🧠✨
+- 📜 **The Ultimate Job Ready Data Science Course** - Code With Harry [2025]
+- 📜 **Wordpress & Digital Marketing** - Empower SoftTech [2024 - 2025]
+- 📜 **Java FullStack** - Empower SoftTech [2023 - 2024]
+- 📜 **Frontend Website Development** - Ministry of Micro, Small and Medium Enterprises, Government of India [2022 - 2023]
+- 📜 **Basic Computer Skills** - Sai Saritha Computer Technologies. [2021 - 2022]
 
 ---
 
@@ -97,7 +84,7 @@ When I'm not wrangling data or training models, you'll find me analyzing digital
 
 ### 📫 Let's Connect!
 
-Whether you're looking for a data scientist, have a project in mind, or just want to talk about the latest in ML—I'm all ears!
+Whether you're looking for a data scientist, have a project in mind, or just want to talk about the latest in ML.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/suraj-singh-data-science/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail)](mailto:suraj.datascience24@gmail.com)
